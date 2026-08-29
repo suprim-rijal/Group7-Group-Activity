@@ -1,3 +1,5 @@
+#This is the final discussion of Group Activity and Answer to last question
+
 1. Our Sprint Goal
 Enable customers to view restaurant details, understand their delivery costs upfront, and successfully place a basic cash-on-delivery order.
 
